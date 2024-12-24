@@ -4,6 +4,8 @@
 
 # German Vocabulary (A1-B2)
 
+# Resources Collected : Facebook Group, Telegram, Whatsup
+
 # Copyright (c) Hazrat Ali
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
