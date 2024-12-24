@@ -2,7 +2,7 @@
 
 # Software Engineering
 
-# German Vocabulary (A1-B1)
+# German Vocabulary (A1-B2)
 
 # Copyright (c) Hazrat Ali
 
