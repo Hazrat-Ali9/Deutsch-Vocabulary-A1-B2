@@ -1,3 +1,5 @@
+<img src="images/vocabulery.jpg"/>
+
 # Hazrat Ali
 
 # Software Engineering
